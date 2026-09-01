@@ -20,7 +20,7 @@
 在树莓派上执行：
 ```bash
 python3 main.py
-
+```
 ## 技术栈
 
 - **树莓派端**：Python、OpenCV、YOLOv8s、ONNX Runtime、PySerial
